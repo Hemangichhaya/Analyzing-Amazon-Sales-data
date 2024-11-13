@@ -57,6 +57,8 @@ The main objectives of this analysis are:
 
 **Jupyter Notebooks:** For interactive analysis and exploration.
 
+**Power BI (Optional):** For additional visual insights and dashboarding.
+
 # Key Analysis & Insights
 Some of the insights we expect to uncover include:
 
@@ -100,3 +102,6 @@ Some of the insights we expect to uncover include:
 
 **8. Monthly/Seasonal Analysis:**
   * Identify seasonal trends in sales volume and profit.
+
+**9. Data Visualization and Dashboarding (Optional):**
+ * Create a Power BI Dashboard
