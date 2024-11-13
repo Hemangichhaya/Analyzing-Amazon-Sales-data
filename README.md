@@ -31,9 +31,13 @@ The main objectives of this analysis are:
 
 # Technologies Used
 Python: Programming language used for data processing and analysis.
+
 Pandas: For data manipulation and analysis.
+
 NumPy: For numerical computations.
+
 Matplotlib/Seaborn: For data visualization.
+
 Jupyter Notebooks: For interactive analysis and exploration.
 
 # Key Analysis & Insights
@@ -49,6 +53,7 @@ Some of the insights we expect to uncover include:
 **1. Data Loading and Inspection:**
   * Load the dataset and inspect the first few rows and summary statistics.
   * Check for missing values, duplicates, and data types.
+    
 **2. Data Cleaning:**
   * Handle missing values, remove duplicates, and convert date columns to the correct format.
   * Create additional columns like Shipping Time if needed.
